@@ -13,9 +13,11 @@ combine these separate features, but it's important to keep them separate.
         --Async *can* be easier.
         --JavaScript as a scripting language.
         --It's interpreted like Python/Ruby!
-    2. Node is an event-driven
+    2. Node is a event-driven
         --Great at handling tonnes of non-CPU-intensive processes + concurent inputs/outputs -> realtime websites
-        --Bad at doing syncronous tasks (large file transfers, fibonacci sequence).
-        --Inspired by realtime webapps
+        --Bad at doing expensive syncronous tasks (large file transfers, fibonacci sequence).
+        --Amazing at realtime webapps
     3. Node comes with npm, a package manager
-        --Popular libraries: Express.js, Socket.io
+        --Each app you have will have a package.json file
+        --Easy to publish
+        --Pitfalls of the "cloud": be prepared.
