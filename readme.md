@@ -1,9 +1,10 @@
-# nodeJS Presentation
-
-For my web developers meetup I volunteered to do a little presentation on node.  Here's the code I'll be showing off.  It's mostly a combination of a few different tutorials.
+# node in 10 mins
 
 
-## Notes:
+For my web developers meetup I volunteered to do a little presentation on Node.js.  Here's the code I'll be showing off.  It's mostly a combination of a few different tutorials.
+
+
+### Notes:
 
 Node does a bunch of things at once.  It's easy to confuse or acccidentally conceptually 
 combine these separate features, but it's important to keep them separate.
